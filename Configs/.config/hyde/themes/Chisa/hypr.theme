@@ -1,8 +1,8 @@
 $HOME/.config/hypr/themes/theme.conf|> $HOME/.config/hypr/themes/colors.conf
 # Chisa theme settings
 
-$GTK_THEME = Chisa
-$ICON_THEME = Chisa
+$GTK_THEME = Tokyo-Night
+$ICON_THEME = Tela-circle-purple
 $COLOR_SCHEME = prefer-dark
 
 # Optional: The variables above will be set automatically when the theme is loaded
